@@ -7,7 +7,7 @@ Repozitorij z gradivi pri predmetu APPR v študijskem letu 2020/21
 
 ## Analiza naborov NFL
 
-##ideja
+### Ideja
 
 Liga NFL (angleško: National Football League) je severnoameriška liga ameriškega nogometa. Vsako leto pod vodstvom lige poteka nabor (angleško: draft), kjer klubi iz lige rekrutirajo najboljše in njaperspektivnejše mlade igralce tega športa, ki se prej kalijo na različnih kolidžih po ZDA.
 
@@ -17,7 +17,8 @@ Pri svojem projektu bom analiziral nabore zadnjih 5 let, in sicer prve 3 kroge n
 * na katerih položajih igrajo igralci, ki so izbrani med prvimi oz. kateri položaj je izbran največkrat (razčlenitev med napadalci in branilci),
 * kateri igralci izbrani v teh naborih so se zaenkrat izkazali za najboljše izbire.
 
-##viri
+### Viri
+
 https://en.wikipedia.org/wiki/2015_NFL_Draft
 https://en.wikipedia.org/wiki/2016_NFL_Draft
 https://en.wikipedia.org/wiki/2017_NFL_Draft
