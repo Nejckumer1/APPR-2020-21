@@ -5,10 +5,26 @@ Repozitorij z gradivi pri predmetu APPR v študijskem letu 2020/21
 * [![Shiny](http://mybinder.org/badge.svg)](http://mybinder.org/v2/gh/jaanos/APPR-2020-21/master?urlpath=shiny/APPR-2020-21/projekt.Rmd) Shiny
 * [![RStudio](http://mybinder.org/badge.svg)](http://mybinder.org/v2/gh/jaanos/APPR-2020-21/master?urlpath=rstudio) RStudio
 
-## Tematika
+## Analiza naborov NFL
 
-Izbrali si boste temo, s katero se bo vaš projekt ukvarjal.
-Tukaj boste napisali, kje ste dobili podatke, ter kakšen je vaš cilj.
+##ideja
+
+Liga NFL (angleško: National Football League) je severnoameriška liga ameriškega nogometa. Vsako leto pod vodstvom lige poteka nabor (angleško: draft), kjer klubi iz lige rekrutirajo najboljše in njaperspektivnejše mlade igralce tega športa, ki se prej kalijo na različnih kolidžih po ZDA.
+
+Pri svojem projektu bom analiziral nabore zadnjih 5 let, in sicer prve 3 kroge nabora (prvih cca. 100 izbranih igralcev). Pri tem bom v grafih in tabelah podrobnejse poskušal zajeti podatke, kot so:
+* kateri klubi najmočnejše lige so imeli v naborih največ izborov,
+* kateri kolidži so glede igralcev najproduktivnejši,
+* na katerih položajih igrajo igralci, ki so izbrani med prvimi oz. kateri položaj je izbran največkrat (razčlenitev med napadalci in branilci),
+* kateri igralci izbrani v teh naborih so se zaenkrat izkazali za najboljše izbire.
+
+##viri
+https://en.wikipedia.org/wiki/2015_NFL_Draft
+https://en.wikipedia.org/wiki/2016_NFL_Draft
+https://en.wikipedia.org/wiki/2017_NFL_Draft
+https://en.wikipedia.org/wiki/2018_NFL_Draft
+https://en.wikipedia.org/wiki/2019_NFL_Draft
+https://en.wikipedia.org/wiki/2020_NFL_Draft
+https://www.nfl.com/news/2020-nfl-draft-final-quick-snap-grades-for-all-32-teams-0ap3000001111711
 
 ## Program
 
